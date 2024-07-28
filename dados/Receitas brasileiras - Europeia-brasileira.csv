@@ -1,0 +1,20 @@
+Receita,Categoria,Link da Receita,Ingredientes,Modo de Preparo,Origem
+Pizza,Salgado,link,"Farinha, água, fermento, molho de tomate, queijo, toppings variados","Prepare a massa com farinha, água e fermento; adicione molho e coberturas, asse",Itália
+Bacalhau à Gomes de Sá,Salgado,link,"Bacalhau, batatas, cebolas, azeitonas, ovos, azeite","Cozinhe o bacalhau e misture com os outros ingredientes, asse",Portugal
+Paella,Salgado,link,"Arroz, frutos do mar, frango, legumes","Cozinhe arroz com frutos do mar, frango e legumes",Espanha
+Eisbein,Salgado,link,"Joelho de porco, batatas, chucrute","Cozinhe o joelho de porco, sirva com batatas e chucrute",Alemanha
+Fish and Chips,Salgado,link,"Peixe, batatas, óleo para fritar","Empane e frite o peixe, sirva com batatas fritas",Inglaterra
+Nhoque,Salgado,link,"Batatas, farinha, ovo, molho de tomate","Prepare a massa com batatas e farinha, cozinhe e sirva com molho",Itália
+Bacalhau,Salgado,link,"Bacalhau, batatas, azeite, alho",Cozinhe o bacalhau e sirva com batatas e azeite,Portugal
+Polenta,Salgado,link,"Fubá, água, sal, queijo","Cozinhe o fubá com água e sal, adicione queijo",Itália
+Risoto,Salgado,link,"Arroz arbóreo, caldo de galinha, queijo parmesão",Cozinhe o arroz com caldo e adicione queijo,Itália
+Torta Alemã,Doce,link,"Biscoitos, creme de leite, açúcar, manteiga","Monte camadas de biscoito e creme, refrigere",Alemanha
+Strudel de Maçã,Doce,link,"Massa folhada, maçãs, açúcar, canela",Recheie a massa com maçãs e asse,Áustria
+Pudim de Leite,Doce,link,"Leite condensado, ovos, açúcar",Misture os ingredientes e asse em banho-maria,Portugal
+Quindim,Doce,link,"Ovos, açúcar, coco ralado",Misture os ingredientes e asse,Portugal
+Rabanada,Doce,link,"Pão, leite, ovos, açúcar, canela","Mergulhe o pão em leite e ovos, frite e polvilhe açúcar",Portugal
+Arroz Doce,Doce,link,"Arroz, leite, açúcar, canela","Cozinhe o arroz com leite e açúcar, adicione canela",Portugal
+Bolo de Mandioca,Doce,link,"Mandioca, leite de coco, ovos, açúcar",Misture os ingredientes e asse,Portugal
+Canjica,Doce,link,"Canjica, leite condensado, açúcar, coco",Cozinhe a canjica e misture com os outros ingredientes,Portugal
+Quentão,Bebida,link,"Cachaça, gengibre, cravo, canela",Ferva todos os ingredientes,Portugal
+Cuca,Doce,link,"Farinha, açúcar, frutas, manteiga",Prepare a massa e asse com cobertura de frutas,Alemanha
